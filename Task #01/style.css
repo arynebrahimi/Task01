@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(143, 142, 143);
+
+}
+#header {
+    color: black;
+    text-align: center;
+    font-family: "Vazir";   
+}
+.header{
+        color: black;
+        text-align: center;
+        font-family: "Vazir";
+}
+
+#form {
+    text-align: center;
+    color: black;
+    margin: auto;
+    width: 1200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-width: 5px;
+    border-color: whitesmoke;
+    border-style: solid;
+    border-radius: 20%;
+    font-family: "Vazir";
+    
+}
+#style {
+    text-align: center;
+    color: black;
+    margin: auto;
+    width: 1200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-width: 5px;
+    border-color: whitesmoke;
+    border-style: solid;
+    border-radius: 20%;
+    font-family: "Vazir";
+    
+}
+
+
+a[href] {
+    color: blue;
+}
